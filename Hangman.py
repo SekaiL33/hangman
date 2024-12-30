@@ -92,7 +92,7 @@ allowed_char = []
 for i in range(65,91):
     allowed_char.append(chr(i))
 
-print("---------------Welcome to HangMan!----------------")
+print("---------------Welcome to Hang Man!----------------")
 print("\t" * 6 + " |")
 print("How to Play:" + "\t" * 5 + " |")
 print("(A) 2 Players needed" + "\t" * 4 + " |")
