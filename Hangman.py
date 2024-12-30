@@ -94,7 +94,7 @@ for i in range(65,91):
 
 print("---------------Welcome to HangMan!----------------")
 print("\t" * 6 + " |")
-print("Instruction:" + "\t" * 5 + " |")
+print("How to Play:" + "\t" * 5 + " |")
 print("(A) 2 Players needed" + "\t" * 4 + " |")
 print("\t" * 6 + " |")
 print("(B) Riddler enters 1 word for Player to guess" + "\t" * 1 + " |")
